@@ -1,0 +1,14 @@
+{
+  "name": "test-program",
+  "version": "1.0.0",
+  "description": "Just a little test program!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "TheGooberr_",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^30.5.1"
+  }
+}
