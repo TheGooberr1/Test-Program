@@ -1,0 +1,2 @@
+Since your dumbass at this point in time is unable to create a start file,
+open the command line, and type "npm start". That's all.
